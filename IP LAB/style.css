@@ -1,0 +1,14 @@
+body{
+    background:turquoise;
+    text-align: center;
+    
+    color:violet;
+    
+}
+img{
+    width: 50%;
+}
+pre{
+    font-size: 15px;
+    line-height: 20px;
+}
