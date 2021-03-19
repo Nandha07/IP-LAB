@@ -1,0 +1,13 @@
+body{
+    background:turquoise;
+    text-align: center;
+    line-height: 60px;
+}
+
+pre{
+    font-size: 15px;
+    line-height: 20px;
+}
+input[type=submit]{
+  padding: 10px 10px;
+}
